@@ -2,7 +2,6 @@
 <h1 align="center">H! I'm Rakesh Kumar</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/84269677?s=400&u=9082d3cbed9be94dcdc243373d3f030e953edb06&v=4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingblog89&label=Profile%20views&color=0e75b6&style=flat" alt="programmingblog89" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
